@@ -11,4 +11,4 @@
 * Uso de hiperparametros
 * Analisis de rendimiento de los modelos aplicados
 
-### Uso de Python Pandas, Numpy, Matplotlib, Seaborn, SciKit Learn, Snap ML, Graphviz y Jupyter
+### Uso de Python Pandas, Numpy, Matplotlib, SciKit Learn, Snap ML, Graphviz y Jupyter
